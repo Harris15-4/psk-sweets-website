@@ -1,5 +1,7 @@
 # 🍬 PSK Sweets Website
 
+> Note: Project built for a real client. Some features may be customized based on business needs.
+
 A modern and responsive website built for a sweets brand to enhance online presence and simplify customer ordering.
 
 🚀 Designed with focus on UI/UX, mobile responsiveness, and real-time order experience.
