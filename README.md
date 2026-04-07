@@ -4,6 +4,10 @@ A modern and responsive website built for a sweets brand to enhance online prese
 
 🚀 Designed with focus on UI/UX, mobile responsiveness, and real-time order experience.
 
+## 🔗 Live Demo
+
+👉 https://harris15-4.github.io/psk-sweets-website/
+
 ## 🌐 Live Pages
 
 - [🏠 Home Page](https://github.com/user-attachments/files/26531070/home.html)
