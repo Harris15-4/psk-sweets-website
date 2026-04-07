@@ -1,41 +1,36 @@
-[index.html](https://github.com/user-attachments/files/26530003/index.html)
-[menu.html](https://github.com/user-attachments/files/265300![s](https://github.com/user-attachments/assets/85149071-c85b-4878-8694-3e92e025b632)![t](https://github.com/user-attachments/assets/d551c735-538d-488f-b820-bef535e01010)
-![r](https://github.com/user-attachments/assets/531aa0b0-dd25-497b-9254-86dd1e591830)
-![q](https://github.com/user-attachments/assets/bf6d2da9-25b9-4af3-8732-16692d55ac37)
-![p](https://github.com/user-attachments/assets/476f6284-f16e-4006-a972-d847cf90f414)
-![WhatsApp Image 2026-04-06 at 18 50 41 (2)](https://github.com/user-attachments/assets/17deb501-069a-47e3-8223-5bad90db9fc4)
-![WhatsApp Image 2026-04-06 at 18 50 41 (1)](https://github.com/user-attachments/assets/5203342d-e0ef-4722-a798-e981c464c952)
-![WhatsApp Image 2026-04-06 at 18 50 40](https://github.com/user-attachments/assets/f214366a-9cec-4924-8cc6-3470f4b8f1ab)
-![WhatsApp Image 2026-04-06 at 18 50 40 (1)](https://github.com/user-attachments/assets/5c7a05e3-e22e-4453-aa8d-41d6a37b8fcd)
-![u](https://github.com/user-attachments/assets/0292dcac-0e4e-490f-bea3-2e718547659e)
+## 🌐 Live Pages
 
-![o](https://github.com/user-attachments/assets/c19382df-406d-491e-800a-04ba8c1c2512)
-![k](https://github.com/user-attachments/assets/da9d88fb-6467-42ba-b7d7-d6219c62c16c)
-![g](https://github.com/user-attachments/assets/4cf6904d-5af1-4674-9a49-89472cead133)
-![c](https://github.com/user-attachments/assets/7d9a1157-209b-4d08-9d49-e1bb9bab650e)
-![WhatsApp Image 2026-04-06 at 18 50 41](https://github.com/user-attachments/assets/e92c108b-aff2-4ee2-b5a2-e5a9a443ea08)
-![WhatsApp Image 2026-04-06 at 18 50 40 (2)](https://github.com/user-attachments/assets/37673c72-e258-42f3-ac4c-ca3fb8178041)
-04/menu.html)[new-arrival.![a](https://github.com/user-attachments/assets/ea82f381-cf50-4c96-96a7-d2e03bfa18f7)![h](https://github.com/user-attachments/assets/b197e7f3-536f-4536-a3ac-2fae6531e047)
-![f](https://github.com/user-attachments/assets/de38ef81-e085-44d4-8c14-e078fbb503d2)
-![e](https://github.com/user-attachments/assets/1be8cbd4-5499-4de4-9949-17e2c24e4193)
-![d](https://github.com/user-attachments/assets/6f7660d4-deb6-44b4-8699-1ab61c5e7096)
-![b](https://github.com/user-attachments/assets/32a378a8-eab8-4569-b99e-ab3e8e055644)
-![a](https://github.com/user-attachments/assets/d19efff1-e23c-4e8b-b8a4-d3d457aeb3c7)
-![9](https://github.com/user-attachments/assets/554c3a6b-e6c3-4628-bff3-266473bf0581)
-![r](https://github.com/user-attachments/assets/f7bcb2c6-cb2a-422e-9e03-320061575fdf)
-![q](https://github.com/user-attachments/assets/e5998cb2-f89d-48a1-a0a0-987e14ace99d)
-![p](https://github.com/user-attachments/assets/bde70be8-f5d4-401d-b4f1-ee7ed67d2b00)
-![n](https://github.com/user-attachments/assets/26b998d4-664c-44f0-8ca1-921679dd4beb)
-![m](https://github.com/user-attachments/assets/39ecfddf-7dfb-4d2f-9819-4959f0d447bf)
-![l](https://github.com/user-attachments/assets/e635a1cb-9418-4dd4-b019-d551883318ac)
-![j](https://github.com/user-attachments/assets/d6994622-c23e-4148-8cbb-cb21fcf66a80)
-![i](https://github.com/user-attachments/assets/42724c99-edde-42d3-a36c-bc2b56c66606)
+- [🏠 Home Page](https://github.com/user-attachments/files/26531070/home.html)
+- [📋 Menu Page](https://github.com/user-attachments/files/26531093/menu.html)
+- [🎂 Cakes Page](https://github.com/user-attachments/files/26531114/cakes.html)
+- [🛍️ Product Page](https://github.com/user-attachments/files/26531133/product-details.html)
 
-html](https://github.com/user-attachments/files/26530005/new-arrival.html)
-[cakes-info.html](https://github.com/user-attachments/files/26530022/cakes-info.html)
-[customized-cake-detail.html](https://github.com/user-attachments/files/26530023/customized-cake-detail.html)[cakes.html](https://github.com/user-attachments/files/26530024/cakes.html)
-[bulk-orders.html](https://github.com/user-attachments/files/26530026/bulk-orders.html)
-[cake-details.html](https://github.com/user-attachments/files/26530033/cake-details.html)[about.html](https://github.com/user-attachments/[sitemap.xml](https://github.com/user-attachments/files/26530039/sitemap.xml)
-files/26530034/about.html)[stores.html](https://github.com/user-attachments/files/26530040/stores.html)[product-details.html](https://github.com/user-attachments/files/26530042/product-details.html)
-[newproduct.html](https://github.com/user-attachments/files/26530041/newproduct.html)
+- 
+## 📸 Screenshots
 
+### 💻 Desktop View
+
+#### 🏠 Home Page
+![Home](https://github.com/user-attachments/assets/13283692-d212-4144-b6af-cce0eedc494e)
+
+#### 📋 Menu Page
+![Menu](https://github.com/user-attachments/assets/c2f5df4a-06fb-449c-aa9e-c4e82aa4d464)
+
+#### 🎂 Cakes Page
+![Cakes](https://github.com/user-attachments/assets/cb72c2cc-9e41-4a46-965c-1ed2f498e4e1)
+
+#### 🛍️ Product Page
+![Product](https://github.com/user-attachments/assets/3f6bb326-a468-4f53-907c-32674c6f8eec)
+
+---
+
+### 📱 Mobile View
+
+#### 🏠 Home Page
+![Mobile Home](https://github.com/user-attachments/assets/89ec6e38-0768-4f45-82d4-f135cc73c144)
+
+#### 📋 Menu Page
+![Mobile Menu](https://github.com/user-attachments/assets/2c784229-92fd-46f3-8615-5eb4bc987c9c)
+
+#### 🎂 Cakes Page
+![Mobile Cakes](https://github.com/user-attachments/assets/72625cff-2264-4cac-9bc4-1a601987d8ab)
