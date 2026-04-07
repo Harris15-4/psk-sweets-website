@@ -1,3 +1,9 @@
+# 🍬 PSK Sweets Website
+
+A modern and responsive website built for a sweets brand to enhance online presence and simplify customer ordering.
+
+🚀 Designed with focus on UI/UX, mobile responsiveness, and real-time order experience.
+
 ## 🌐 Live Pages
 
 - [🏠 Home Page](https://github.com/user-attachments/files/26531070/home.html)
@@ -34,3 +40,10 @@
 
 #### 🎂 Cakes Page
 ![Mobile Cakes](https://github.com/user-attachments/assets/72625cff-2264-4cac-9bc4-1a601987d8ab)
+
+## ⚙️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Responsive Design  
