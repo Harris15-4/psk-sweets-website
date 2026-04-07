@@ -6,6 +6,8 @@ A modern and responsive website built for a sweets brand to enhance online prese
 
 ## 🔗 Live Demo
 
+- 🌐 Website: https://psksweets.in
+
 👉 https://harris15-4.github.io/psk-sweets-website/
 
 ## 🌐 Live Pages
